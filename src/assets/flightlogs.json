@@ -1,0 +1,7 @@
+[
+    {"date": "2009-12-25", "number": "PR311", "tail": "", "from": "HKG", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2007-12-26", "number": "PR847", "tail": "", "from": "MNL", "to": "CEB", "status": "COMPLETED"},
+    {"date": "2007-04-19", "number": "PR311", "tail": "", "from": "HKG", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2004-10-31", "number": "PR196", "tail": "", "from": "PPS", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2004-10-28", "number": "PR195", "tail": "", "from": "MNL", "to": "PPS", "status": "COMPLETED"}
+]
